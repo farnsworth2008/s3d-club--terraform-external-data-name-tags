@@ -7,5 +7,5 @@ Recently completed and planned work is tracked here.
 ## [0.1.9](.)
 - Updated `changes` module
 
-## [0.1.10-s3d-1001](.)
+## [0.1.10-s3d-1002](.)
 - Added `s3d-flow-json` in `changes` module
