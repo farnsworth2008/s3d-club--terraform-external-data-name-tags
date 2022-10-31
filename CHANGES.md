@@ -14,5 +14,5 @@ This file describes the project history as it relates to tagged versions.
 - Improved descriptions of variables and outputs
 - Updated `changes` module
 
-## [0.1.15-s3d-1002](.)
-- Changed to use `-*` as suffix for pre-release versions
+## [0.1.15-s3d-1003](.)
+- Changed to use `-x` as suffix for pre-release versions
